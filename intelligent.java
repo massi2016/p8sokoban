@@ -1,6 +1,6 @@
 package p8.demo.p8sokoban;
 
-
+//des changement
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -8,7 +8,7 @@ import android.view.View;
 // voila mon code avant modification
 
 
-
+// la classe intilligent
 public class intelligent extends Activity {
 
     private IntilligentView sokoView;
